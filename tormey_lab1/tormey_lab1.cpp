@@ -11,7 +11,7 @@ int main()
 
     cout << "Deez Nuts \n";
 
-    cout << "GitHub collaboration easy!\n";
+    cout << "GitHub collaboration easy !\n";
 
     cout << "Changes made by Jeffery Washington:  more changes  \n";
 }
