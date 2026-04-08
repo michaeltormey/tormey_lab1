@@ -4,16 +4,15 @@
 
 #include <iostream>
 using namespace std;
+//This is the MASTER Brancvh
 
 int main()
 {
     cout << "Hello from Michael Tormey. This is my first Git commit.\n";
 
-    cout << "Deez Nuts \n";
+    cout << "Deez Nuts.\n";
 
-    cout << "GitHub collaboration easy !\n";
-
-    cout << "Changes made by Jeffery Washington:  more changes  \n";
+    cout << "GitHub collaboration easy!\n";
 
     cout << "Lab 1 completed on 4/8/2026\n";
 }
