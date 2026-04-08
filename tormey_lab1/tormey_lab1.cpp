@@ -14,6 +14,8 @@ int main()
     cout << "GitHub collaboration easy !\n";
 
     cout << "Changes made by Jeffery Washington:  more changes  \n";
+
+    cout << "Lab 1 completed on 4/8/2026\n";
 }
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
 // Debug program: F5 or Debug > Start Debugging menu
