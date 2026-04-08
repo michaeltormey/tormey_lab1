@@ -8,7 +8,7 @@ using namespace std;
 
 int main()
 {
-    cout << "Hello from Jeffrey!";
+    cout << "Hello from Jeffrey! ";
 
     cout << "Deez Nuts.\n";
 
