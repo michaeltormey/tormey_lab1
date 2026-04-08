@@ -9,5 +9,5 @@ This is a simple C++ console application created for Git Lab 1.
 - How to collaborate using GitHub
 
 ## Team Members
-- Michael Tormey Feature: Michael's Information Display
+- Michael Tormey
 - Marcus Lewis
