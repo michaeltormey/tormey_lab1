@@ -8,7 +8,7 @@ using namespace std;
 
 int main()
 {
-    cout << "Hello from Michael Tormey. This is my first Git commit.\n";
+    cout << "Hello from Michael Tormey.\n";
 
     cout << "Deez Nuts.\n";
 
